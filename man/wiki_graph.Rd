@@ -13,7 +13,8 @@ A data.frame with 18 rows and 3 variables:
 }
 }
 \source{
-
+Wikipedia: Dijkstra's algorithm, available at
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 }
 \usage{
 wiki_graph

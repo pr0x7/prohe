@@ -12,7 +12,8 @@ dijkstra(graph, init_node)
 - `v2`: ending node of an edge
 - `w`: weight of the edge (numeric, non-negative)}
 
-\item{init_node}{A numeric scalar representing the starting node.}
+\item{init_node}{A numeric scalar representing the starting node.
+#' @importFrom stats setNamesdevtools::document()}
 }
 \value{
 A numeric vector where each entry gives the shortest distance from `init_node`

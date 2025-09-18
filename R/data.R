@@ -10,5 +10,6 @@
 #'   \item{w}{Numeric. Weight of the edge.}
 #' }
 #'
-#' @source \url{https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm}
+#' @source Wikipedia: Dijkstra's algorithm, available at
+#' https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 "wiki_graph"

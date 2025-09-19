@@ -5,7 +5,7 @@ Version: 0.1.0
 Authors@R: 
     c(
         person("Proksh", "Proksh", email = "propr391@student.liu.se", role = c("aut", "cre")),
-        person("Hewa", "Al Ahmed", email = "", role = "aut")
+        person("Hewa", "Ali Ahmed", email = "hewah066@student.liu.se", role = "aut")
     )
 Description: Implementation of Euclidean GCD and Dijkstra shortest-path algorithm for the course lab.
 License: MIT + file LICENSE

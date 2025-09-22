@@ -12,7 +12,8 @@ prohe for lab3 R package.
 You can install the development version of prohe like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+library(devtools)
+install_github("pr0x7/prohe")
 ```
 
 ## Example
@@ -21,6 +22,6 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(prohe)
-## basic example code
+euclidean(1278,14)
 ```
 
